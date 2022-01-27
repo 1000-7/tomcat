@@ -55,6 +55,7 @@ public final class LifecycleEvent extends EventObject {
     private final String type;
 
 
+
     /**
      * @return the event data of this event.
      */
